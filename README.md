@@ -1,5 +1,5 @@
 
-This is the official PyTorch implementation code for NeWCRFs. For technical details, please refer to:
+This is the official PyTorch implementation code for EDFIDepth. For technical details, please refer to:
 
 ## Contents
 1. [Datasets](#datasets)
